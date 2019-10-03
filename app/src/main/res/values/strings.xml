@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">The Wixers-SoundBoard</string>
+
+    <string name="pame_poutanes">Πάμε Πουτάνες</string>
+    <string name="tiii">Τιιι</string>
+    <string name="ton_exete_gamisei">Τον έχετε ΓΑΜΗΣΕΙ</string>
+    <string name="epeidi_einai_vlakas">Επειδή είναι βΛάκας</string>
+    <string name="poutanes">ΠΟΥΤΑΝΕΣ</string>
+    <string name="koritsia_irtha">Κορίτσια ήρθα</string>
+    <string name="den_pathenete_tipota_re">Δεν παθένετε τίποτα ρε</string>
+    <string name="vladimir_anatoli">Βλαντιμήρ,Ανατόλη</string>
+    <string name="tha_po_oxi">Θα πώ όχι</string>
+    <string name="vrika_to_kleidi">Βρήκα το κλειδί</string>
+    <string name="op_ston_pato_sou">ΟΠ στον πάτο σου</string>
+    <string name="fere_tin_poutana_tin_mpala">Φέρε την ποτάνα την μπάλα</string>
+    <string name="den_eimai_epithetikos">Δεν είμαι επιθετικός</string>
+    <string name="capoeira_xereis">Capoeira ξέρεις</string>
+    <string name="exei_deltio">Εχει δελτιο</string>
+    <string name="monos_sou">Μόνος σου</string>
+    <string name="exo_krifo_profil">Έχω κρυφό προφίλ</string>
+    <string name="vlamenos">Βλαμένους και βλαμένους</string>
+    <string name="isagkeleas">Να φωνάξουμε έναν εισαγγελέα</string>
+    <string name="skoupes">Να μπουν οι σκούπες</string>
+    <string name="ereunes">Αν απανταω σε ερευνες</string>
+    <string name="dexomai">Δεχομαι</string>
+    <string name="prodigy">Βάλε Prodigy</string>
+    <string name="ante_gamisou_momolo">Άντε γαμήσου μόμολο</string>
+    <string name="katapie_to_klama">Κατάπιε το κλάμα σου</string>
+    <string name="thanasi_mpoulo">Θανάση μπόυλο</string>
+    <string name="exeis_vale">Έχεις βαλέ</string>
+    <string name="kaneme_poutana">Κάνε με πουτάνα</string>
+    <string name="fige_me_kei">Με καίει</string>
+    <string name="gelio_rap">Γέλιο Ραπ</string>
+    <string name="dieta_olo_auto">Δίαιτα όλο αυτό</string>
+    <string name="ti_vyzia">Τι βυζιά</string>
+    <string name="giati_kleei_o_mikros">Γιατί κλαίει ο μικρός</string>
+    <string name="re_malakismena">Ρε μαλακισμένα</string>
+    <string name="gelio_fanis">Γέλιο Φάνη</string>
+    <string name="poutana_kai_malaka">Πουτάνα και μαλάκα να πείτε τις μανάδες σας</string>
+    <string name="tha_sas_to_valo_sto_patari_re_mounoskila">Θα σας το βάλω στο πατάρι ρε μουνόσκυλα</string>
+    <string name="sta_arxidia_mou">Στα αρχίδια μου</string>
+    <string name="kontra_stin_kinia">Κόντρα στη γκίνια</string>
+    <string name="sta_arxidia_mas">Στα αρχίδια μας</string>
+    <string name="koita_pos_einai">Κοίτα πως είναι</string>
+    <string name="pieite_mpourdela">Πιείτε μπουρδέλα</string>
+    <string name="ego_den_ksanapino">Εγώ δεν ξαναπίνω</string>
+    <string name="re_malakes">Ρε ΜΑΛΑΚΕΣ</string>
+    <string name="fige_re_sixama">Φύγε ρε σίχαμα</string>
+    <string name="sas_prokali_ekeneurismo">Σας προκαλεί εκνευρισμό</string>
+    <string name="to_basket_thelei_kinisi">Το μπάσκετ θέλει κίνηση</string>
+    <string name="emeis_gamousame_stin_ilikia_sou">Εμείς γαμούσαμε στη ηλικία σου</string>
+    <string name="eimai_iothetimenos">Είμαι υιοθετημένος</string>
+    <string name="oxi_allo">Όχι άλλο</string>
+    <string name="pios_to_eipe_auto">Ποιος το είπε αυτό</string>
+    <string name="ante_kai_gamisou_re_malaka">Άντε και γαμήσου ρε μαλάκα</string>
+    <string name="edo_koita_ygeia">Εδώ κοίτα υγεία</string>
+    <string name="den_pinas_agori_mou">Δεν πεινάς αγόρι μου</string>
+    <string name="exo_ksekinisei_treksimo">Έχω ξεκινήσει τρέξιμο</string>
+    <string name="giaourtaki_malakes">Γιαουρτάκι μαλάκες</string>
+    <string name="les_kai_me_gamaei_agelada">Λες και με γαμάει αγελάδα</string>
+
+
+    <string name="thewixerssoundboard">The Wixers-SoundBoard</string>
+    <string name="information">Information</string>
+    <string name="bar">Οι πιο τελειωμένες κατηγορίες μεθυσμένων!</string>
+    <string name="basket">Οι χειρότεροι τύποι που θα πετύχεις σε γηπεδάκια μπάσκετ!</string>
+    <string name="fifa">Κατηγορίες παικτών ΦΙΦΑ που θέλουν τάκλιν από πίσω</string>
+    <string name="Dj">Αν οι dj απαντούσαν όπως γουστάρουν!</string>
+    <string name="fifa_me_aderfo">Όταν θέλεις να παίξεις ΦΙΦΑ με τον μεγάλο σου αδερφό</string>
+    <string name="dieta">Πώς πιστεύεις ότι θα είναι όταν κάνεις δίαιτα VS Πώς είναι τελικά</string>
+
+    <string name="todo0">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+
+    <string name="stop">STOP</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="rights">®All rights reserved to Netwix and The Wixers</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="about_app">Το ανεπίσημο soundboard  των The Wixers περιλαμβανει ένα μεγάλο πλήθος από τις πιο διάσημες ατακες των αγαπημένων μας comedians.Φάνης Λαμπρόπουλος,Νίκος Ράπτης,Θανάσης Πασάς και οι διάφοροι guests ο καθένας με το δικό του ξεχωριστό Tab για την γρηγορότερη και ευκολότερη επιλογή της κατάληλης ατάκας ανάλογα την περίσταση.®Όλα τα δικαιώματα από τις παραπάνω ατάκες αποδίδονται στους δημιουργούς,την ομάδα των The Wixers και το Netwix.
+                             </string>
+    <string name="app_made">The app made with Android Studio 3.0</string>
+
+
+
+</resources>
